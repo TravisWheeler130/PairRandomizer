@@ -28,7 +28,7 @@ class PairRandomizerController {
     
     //MARK: - Delete
     func deleteName(name: [String]) {
-        guard let nameIndex = names.firstIndex(where: name) else {return}
+        guard let nameIndex = names.firstIndex(of: name) else {return}
         names.remove(at: nameIndex)
         //save
     }

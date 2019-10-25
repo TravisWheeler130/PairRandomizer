@@ -11,6 +11,7 @@ import Foundation
 class PairRandomizer {
     
     var name: [String]
+    // var isPaired: Bool = false
     
     init (name: [String]) {
         self.name = name

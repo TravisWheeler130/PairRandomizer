@@ -15,6 +15,7 @@
 		196BBF682363500100A5F8B3 /* PairRandomizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196BBF672363500100A5F8B3 /* PairRandomizer.swift */; };
 		196BBF6A2363528700A5F8B3 /* PairRandomizerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196BBF692363528700A5F8B3 /* PairRandomizerController.swift */; };
 		196BBF6C23636D6700A5F8B3 /* PairRandomizerTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196BBF6B23636D6700A5F8B3 /* PairRandomizerTableViewController.swift */; };
+		196BBF6E2363750500A5F8B3 /* NameTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196BBF6D2363750500A5F8B3 /* NameTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		196BBF672363500100A5F8B3 /* PairRandomizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairRandomizer.swift; sourceTree = "<group>"; };
 		196BBF692363528700A5F8B3 /* PairRandomizerController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairRandomizerController.swift; sourceTree = "<group>"; };
 		196BBF6B23636D6700A5F8B3 /* PairRandomizerTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairRandomizerTableViewController.swift; sourceTree = "<group>"; };
+		196BBF6D2363750500A5F8B3 /* NameTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				196BBF6B23636D6700A5F8B3 /* PairRandomizerTableViewController.swift */,
+				196BBF6D2363750500A5F8B3 /* NameTableViewCell.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				196BBF6E2363750500A5F8B3 /* NameTableViewCell.swift in Sources */,
 				196BBF6A2363528700A5F8B3 /* PairRandomizerController.swift in Sources */,
 				196BBF6C23636D6700A5F8B3 /* PairRandomizerTableViewController.swift in Sources */,
 				196BBF4D23634F4900A5F8B3 /* AppDelegate.swift in Sources */,
